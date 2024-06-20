@@ -1,0 +1,4 @@
+camel casing
+class and interfaces: start with cap ex: Calc, Runnable, MyData
+variables and function names: start with small ex: name,myName, show(), showMarks()
+constant: All caps ex PIE,MY_DATA
