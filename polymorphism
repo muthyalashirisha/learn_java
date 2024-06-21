@@ -1,0 +1,10 @@
+polymorphism: multiple behaviours (of reference variable)
+two type: 
+1. compile time (static binding):
+    decides which to call during compile time
+    ex: method overloading
+2. run time (dynamic binding) 
+    decides which to call during run time
+    ex 1. method overriding
+       2. Dynamic method dispatch
+
